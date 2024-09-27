@@ -46,8 +46,10 @@ class Program
                     Console.WriteLine("Opção inválida. Tente novamente.");
                     break;
             }
-        }  
+        }
 
+        Console.ReadKey();
     }
+
 }
 
